@@ -21,7 +21,6 @@ I have a strong passion for data science, machine learning, and transforming dat
 ## Contact
 
 - Email: pidurudheeraj52@gmail.com  
-- LinkedIn: [Insert your LinkedIn URL]  
-- GitHub: [Insert your GitHub username or profile URL]
+- LinkedIn: https://www.linkedin.com/in/dheerajrahulreddypiduru/  
 
 Let's connect and collaborate on meaningful projects.
