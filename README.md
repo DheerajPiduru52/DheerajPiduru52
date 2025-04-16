@@ -1,8 +1,8 @@
 # About Me
 
-I am Dheeraj Rahul Reddy Piduru, a Master's student in Business Analytics at the University of Texas at Dallas, graduating in December 2025.
+I am Dheeraj Rahul Reddy Piduru, a Master's student in **Business Analytics & AI** at the University of Texas at Dallas, graduating in December 2025.
 
-I have a strong passion for data science, machine learning, and transforming data into actionable insights. My background includes internships and full-time experience in business analytics and infrastructure services, with hands-on exposure to building dashboards, predictive models, and automating workflows.
+I have a strong passion for data science, machine learning, and transforming data into actionable insights. My background includes internships experience in business analytics and infrastructure services, with hands-on exposure to building dashboards, predictive models, and automating workflows.
 
 ## Technical Skills
 
@@ -13,10 +13,14 @@ I have a strong passion for data science, machine learning, and transforming dat
 
 ## Interests
 
-- Deep learning and computer vision  
-- Model interpretability and bias mitigation  
-- Forecasting and optimization  
-- Esports analytics and gaming communities
+- Applied Deep Learning and Computer Vision  
+- Time Series Forecasting and Predictive Modeling  
+- Model Interpretability and Responsible AI  
+- Data-Driven Decision Making in Business Analytics  
+- Process Optimization and Automation  
+- Cloud-Based Data Engineering (Azure, Databricks)  
+- Esports Analytics and Community Engagement  
+- Visualization and Storytelling with BI Tools (Power BI, Tableau)
 
 ## Contact
 
