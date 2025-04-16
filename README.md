@@ -4,10 +4,6 @@ I am Dheeraj Rahul Reddy Piduru, a Master's student in **Business Analytics & AI
 
 I have a strong passion for data science, machine learning, and transforming data into actionable insights. My background includes internships experience in business analytics and infrastructure services, with hands-on exposure to building dashboards, predictive models, and automating workflows.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DheerajPiduru52&show_icons=true&theme=graywhite)
-
 
 ## Technical Skills
 
