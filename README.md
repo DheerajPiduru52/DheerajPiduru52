@@ -6,7 +6,7 @@ I have a strong passion for data science, machine learning, and transforming dat
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DheerajPiduru52&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DheerajPiduru52&show_icons=true&theme=graywhite)
 
 
 ## Technical Skills
