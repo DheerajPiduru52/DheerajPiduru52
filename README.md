@@ -24,7 +24,7 @@ I have a strong passion for data science, machine learning, and transforming dat
 
 ## Resume
 
-![Resume](./assets/DS-1.png)
+![Resume](./assets/DS-2.png)
 
 
 ## Contact
