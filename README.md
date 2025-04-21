@@ -35,6 +35,6 @@ I have a strong passion for data science, machine learning, and transforming dat
 
 Let's connect and collaborate on meaningful projects.
 
-#view Count
+## view Count
 
 ![](https://komarev.com/ghpvc/?username=DheerajPiduru52)
