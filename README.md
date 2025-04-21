@@ -12,6 +12,9 @@ I have a strong passion for data science, machine learning, and transforming dat
 - **Cloud & Databases:** AWS, Azure, MongoDB, MySQL, Snowflake  
 - **Other:** Excel, Alteryx, Git, Agile, SAP
 
+![Dheeraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=DheerajPiduru52&show_icons=true&theme=tokyonight)
+
+
 ## Interests
 
 - Applied Deep Learning and Computer Vision  
