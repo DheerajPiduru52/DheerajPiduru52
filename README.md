@@ -1,4 +1,4 @@
-# About Me
+# About Me       ![](https://komarev.com/ghpvc/?username=DheerajPiduru52)
 
 I am Dheeraj Rahul Reddy Piduru, a Master's student in **Business Analytics & AI** at the University of Texas at Dallas, graduating in December 2025.
 
@@ -35,6 +35,4 @@ I have a strong passion for data science, machine learning, and transforming dat
 
 Let's connect and collaborate on meaningful projects.
 
-## view Count
 
-![](https://komarev.com/ghpvc/?username=DheerajPiduru52)
