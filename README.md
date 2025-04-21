@@ -34,3 +34,7 @@ I have a strong passion for data science, machine learning, and transforming dat
 - LinkedIn: https://www.linkedin.com/in/dheerajrahulreddypiduru/  
 
 Let's connect and collaborate on meaningful projects.
+
+#view Count
+
+![](https://komarev.com/ghpvc/?username=DheerajPiduru52)
