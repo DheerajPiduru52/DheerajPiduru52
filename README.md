@@ -1,3 +1,6 @@
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://dheeraj52.tech/)
+
+
 # About Me       ![](https://komarev.com/ghpvc/?username=DheerajPiduru52)
 
 I am Dheeraj Rahul Reddy Piduru, a Master's student in **Business Analytics & AI** at the University of Texas at Dallas, graduating in December 2025.
