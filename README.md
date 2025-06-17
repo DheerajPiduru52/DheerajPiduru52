@@ -1,4 +1,4 @@
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://dheeraj52.tech/)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge)](https://dheeraj52.tech/)
 
 
 # About Me       ![](https://komarev.com/ghpvc/?username=DheerajPiduru52)
