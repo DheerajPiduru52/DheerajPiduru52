@@ -27,14 +27,10 @@ I have a strong passion for data science, machine learning, and transforming dat
 - Esports Analytics and Community Engagement  
 - Visualization and Storytelling with BI Tools (Power BI, Tableau)
 
-## Resume
-
-![Resume](./assets/DS-1.png)
-
 
 ## Contact
 
-- Email: pidurudheeraj52@gmail.com  
+- Email: pidurudheerajrahulreddy@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/dheerajrahulreddypiduru/  
 
 Let's connect and collaborate on meaningful projects.
