@@ -1,6 +1,6 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-dheeraj52.tech-purple?style=for-the-badge&logo=vercel)](https://dheeraj52.tech/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheerajrahulreddypiduru/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pidurudheerajrahulreddy@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dheeraj52.tech-purple?style=for-the-badge&logo=vercel)](https://dheerajpiduru.online/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheerajpiduru/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dheerajpiduru.9@gmail.com)
 
 # Hi, I'm Dheeraj Rahul Reddy Piduru   ![](https://komarev.com/ghpvc/?username=DheerajPiduru52)
 
