@@ -1,4 +1,4 @@
-[![Portfolio](https://img.shields.io/badge/Portfolio-dheeraj52.tech-purple?style=for-the-badge&logo=vercel)](https://dheerajpiduru.online/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dheerajpiduru.online-purple?style=for-the-badge&logo=vercel)](https://dheerajpiduru.online/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dheerajpiduru/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:dheerajpiduru.9@gmail.com)
 
