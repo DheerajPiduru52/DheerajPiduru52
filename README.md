@@ -4,17 +4,17 @@
 
 # Hi, I'm Dheeraj Rahul Reddy Piduru   ![](https://komarev.com/ghpvc/?username=DheerajPiduru52)
 
-**AI/ML Engineer** with 4 years of experience building and deploying production-grade machine learning and GenAI systems. Currently at **Adobe**, previously at **Accenture**. I specialize in RAG pipelines, LLM-powered applications, and end-to-end ML lifecycle using AWS and MLOps frameworks.
+**AI Engineer** with 3+ years of experience across data engineering, Generative AI, and agentic AI solutions. Currently at **Community Dreams Foundation**, previously at **Accenture**. I specialize in RAG applications, LangGraph-based agent workflows, and connecting AI solutions to real business workflows using Azure AI and Microsoft Fabric.
 
 ---
 
 ##  What I Work On
 
-- **Generative AI & LLMs** — RAG pipelines, LLM fine-tuning (LoRA/QLoRA), prompt engineering, LangChain, LlamaIndex
-- **Machine Learning** — XGBoost, LightGBM, ensemble methods, feature engineering, model evaluation and interpretability (SHAP)
-- **Deep Learning & NLP** — PyTorch, TensorFlow, BERT, Transformers, NER, sentiment analysis, text classification
-- **MLOps** — MLflow, SageMaker, Docker, Kubernetes, CI/CD, experiment tracking, model monitoring, retraining pipelines
-- **Data Engineering** — PySpark, Airflow, Databricks, Snowflake, BigQuery, ETL pipelines
+- **Generative AI & RAG** — RAG pipelines, hybrid/semantic search, embeddings, prompt engineering, retrieval optimization
+- **Agentic AI** — LangGraph agent orchestration, tool calling, agent memory, multi-step workflow automation
+- **AI Evaluation & Monitoring** — Foundry Evaluation, Azure Monitor, Application Insights, Azure AI Content Safety
+- **Microsoft Fabric & Data Engineering** — OneLake, Lakehouse, Medallion architecture, Data Factory, ETL/ELT
+- **Development & Integration** — FastAPI, Docker, Pydantic, Power Automate, lightweight no-cost automation
 
 ---
 
@@ -23,42 +23,46 @@
 **Languages & Querying**
 `Python` `SQL` `PySpark` `REST APIs`
 
-**ML & Deep Learning**
-`XGBoost` `LightGBM` `Scikit-learn` `PyTorch` `TensorFlow` `CNN` `RNN` `Transformers`
+**Azure AI & GenAI**
+`Azure AI Foundry` `Azure OpenAI` `Azure AI Search` `RAG` `Embeddings` `Hybrid/Semantic Search` `Prompt Engineering`
 
-**Generative AI & LLMs**
-`LangChain` `LlamaIndex` `OpenAI API` `Azure OpenAI` `HuggingFace` `RAG` `LoRA` `QLoRA` `PEFT` `Embeddings` `Semantic Search`
+**Agentic AI**
+`LangGraph` `Semantic Kernel` `Tool Calling` `Agent Orchestration` `Agent Memory` `Pydantic`
 
-**Vector Databases**
-`FAISS` `Pinecone` `Weaviate` `ChromaDB`
+**AI Evaluation & Monitoring**
+`Foundry Evaluation` `Azure Monitor` `Application Insights` `Azure AI Content Safety`
 
-**MLOps & Cloud**
-`MLflow` `AWS SageMaker` `AWS S3` `Azure ML` `GCP Vertex AI` `Docker` `Kubernetes` `GitHub Actions` `A/B Testing`
+**Microsoft Fabric & Data**
+`Microsoft Fabric` `OneLake` `Lakehouse` `Data Factory` `Data Migration` `Data Management` `Medallion Architecture` `ETL/ELT`
 
-**Data Engineering**
-`Apache Spark` `Databricks` `Airflow` `Snowflake` `BigQuery`
+**Data Management & Analytics**
+`Microsoft Excel` `Data Validation` `Reporting`
 
-**APIs & Infrastructure**
-`FastAPI` `Redis` `Microservices` `Async Processing`
+**Development & Integration**
+`FastAPI` `Docker` `Git` `Power Automate`
 
-**NLP**
-`BERT` `spaCy` `NER` `Sentiment Analysis` `Topic Modeling` `Conversational AI`
+---
+
+##  Certifications
+
+-  Google Cloud Certified: Professional Machine Learning Engineer
+-  Microsoft Certified: AI-103 Azure AI Apps and Agents Developer Associate
 
 ---
 
 ##  Experience
 
-**AI/ML Engineer — Adobe** *(Jul 2025 – Present)*
-- Production RAG pipeline cutting document retrieval time by 40%
-- LLM-driven automation reducing manual content work by 45%
-- AWS ML pipelines processing 10M+ records monthly via SageMaker & Airflow
-- FastAPI-based ML services integrated into Adobe's production systems
+**AI Engineer — Community Dreams Foundation** *(Feb 2026 – Present)*
+- Built a RAG-based AI application (LangGraph + OpenAI API + FAISS) indexing 50+ internal program documents, achieving ~85% grounded-response accuracy across 30 evaluation questions
+- Developed LangGraph agentic workflows with 3 tool integrations, reducing manual handling by ~20%
+- Integrated a SQLite-backed conversational assistant for program records, cutting lookup time from ~6 min to under 2 min
+- Implemented Pydantic validation, Zapier automation, and conversation memory, reducing malformed tool/API responses by ~20%
 
-**AI/ML Engineer — Accenture** *(Sep 2020 – Oct 2023)*
-- ML solutions for customer analytics improving prediction accuracy by ~18%
-- NLP pipelines (BERT + spaCy) reducing manual review effort by 40%
-- PySpark + Airflow data pipelines cutting prep time by 35%
-- Deployed models via Docker + REST APIs, reducing release cycles by ~30%
+**Data Engineer — Accenture** *(May 2021 – Oct 2023)*
+- Built ingestion/transformation/migration pipelines (Azure Data Factory, ADLS, PySpark, SQL) processing 1M+ records per run
+- Implemented Medallion architecture (Bronze/Silver/Gold), reducing failed data-quality checks by ~25%
+- Developed FastAPI REST APIs, cutting recurring manual data-extraction requests by ~35%
+- Prototyped a RAG-based document Q&A solution (Azure OpenAI + Azure Cognitive Search), achieving ~80% relevant retrieval across 50 test questions
 
 ---
 
@@ -73,6 +77,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [Azure Agentic RAG Assistant](https://github.com/DheerajPiduru52) | Agentic RAG assistant with hybrid retrieval, LangGraph tool routing, and ~87% grounded-answer accuracy on a 75-question test set | Azure AI Foundry, Azure OpenAI, Azure AI Search, LangGraph |
+| [Microsoft Fabric Conversational Analytics Agent](https://github.com/DheerajPiduru52) | Fabric Lakehouse pipeline (250K+ records) with a natural-language analytics agent, ~90% successful query execution | Microsoft Fabric, OneLake, PySpark, SQL |
 | [SplitEase](https://github.com/DheerajPiduru52/splitease) | Full-stack expense splitting app with real-time balance tracking | Next.js, Supabase, Prisma |
 | [Credit Risk Analysis](https://github.com/DheerajPiduru52/CreditRiskAnalysis) | Credit default prediction with SHAP interpretability | XGBoost, Neural Networks, Python |
 | [CIFAR-10 Classification](https://github.com/DheerajPiduru52/CIFAR-10-Image-Classification-using-CNNs) | CNN-based image classifier achieving 90.2% accuracy | PyTorch, CNNs |
@@ -81,4 +87,4 @@
 
 ---
 
-*Open to collaborating on AI/ML, GenAI, and MLOps projects. Let's build something impactful.*
+*Open to collaborating on Generative AI, agentic AI, and data engineering projects. Let's build something impactful.*
