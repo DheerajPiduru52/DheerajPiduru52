@@ -37,20 +37,6 @@ certifications:
 ```
 
 <details open>
-  <summary><h2>├──📂 Projects</h2></summary>
-
-  <p align="left">
-    <a href="https://github.com/DheerajPiduru52"><img width="49%" alt="Azure Agentic RAG Assistant" src="./assets/card-agentic-rag.svg" /></a>
-    <a href="https://github.com/DheerajPiduru52"><img width="49%" alt="Microsoft Fabric Conversational Analytics Agent" src="./assets/card-fabric-agent.svg" /></a>
-    <a href="https://github.com/DheerajPiduru52/splitease"><img width="49%" alt="SplitEase" src="./assets/card-splitease.svg" /></a>
-    <a href="https://github.com/DheerajPiduru52/CreditRiskAnalysis"><img width="49%" alt="Credit Risk Analysis" src="./assets/card-credit-risk.svg" /></a>
-    <a href="https://github.com/DheerajPiduru52/CIFAR-10-Image-Classification-using-CNNs"><img width="49%" alt="CIFAR-10 Classification" src="./assets/card-cifar10.svg" /></a>
-    <a href="https://github.com/DheerajPiduru52/shift-hunter"><img width="49%" alt="UREC Shift Bot" src="./assets/card-shift-bot.svg" /></a>
-    <a href="https://github.com/DheerajPiduru52/Real-Estate-Market-Analysis"><img width="49%" alt="Real Estate Market Analysis" src="./assets/card-real-estate.svg" /></a>
-  </p>
-</details>
-
-<details open>
   <summary><h2>├──📂 Stack</h2></summary>
 
   <h3>🐍 Languages and Querying</h3>
