@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="168" viewBox="0 0 440 168" role="img" aria-label="Real Estate Market Analysis">
+<defs><clipPath id="c"><rect x="2" y="2" width="436" height="164" rx="14"/></clipPath></defs>
+<rect x="2" y="2" width="436" height="164" rx="14" fill="#1b1823" stroke="#06c9c4" stroke-opacity=".55" stroke-width="2"/>
+<g clip-path="url(#c)"><path d="M200 129.8 L216 134.5 L232 138.1 L248 139.9 L264 139.7 L280 137.8 L296 134.8 L312 131.6 L328 129.1 L344 128.0 L360 128.8 L376 131.5 L392 135.7 L408 140.8 L424 145.8 L440 149.8 L456 152.3" fill="none" stroke="#2ff5d6" stroke-opacity="0.1" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><path d="M200 154.8 L216 151.2 L232 147.5 L248 145.1 L264 144.8 L280 147.1 L296 151.4 L312 157.0 L328 162.5 L344 166.7 L360 168.6 L376 168.0 L392 165.4 L408 161.7 L424 158.2 L440 156.2 L456 156.4" fill="none" stroke="#02a3b9" stroke-opacity="0.16" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g font-family="Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif">
+<path d="M24 27h5l3 3h10v12H24z" fill="#ffb84a"/>
+<text x="52" y="40" font-size="17" font-weight="800" letter-spacing="0" fill="#2ff5d6" text-anchor="start" textLength="234.2" lengthAdjust="spacingAndGlyphs" >Real Estate Market Analysis</text>
+<text x="24" y="72" font-size="13.5" font-weight="500" letter-spacing="0" fill="#d7e6e4" text-anchor="start" textLength="341.3" lengthAdjust="spacingAndGlyphs" >Buy / NoBuy classification models with a city scoring</text>
+<text x="24" y="92" font-size="13.5" font-weight="500" letter-spacing="0" fill="#d7e6e4" text-anchor="start" textLength="50.8" lengthAdjust="spacingAndGlyphs" >system.</text>
+<rect x="24.0" y="124" width="59.6" height="22" rx="6" fill="#2ff5d6" fill-opacity=".12" stroke="#2ff5d6" stroke-opacity=".5"/><text x="33.0" y="139" font-size="11" font-weight="800" letter-spacing="0.4" fill="#2ff5d6" text-anchor="start" textLength="41.6" lengthAdjust="spacingAndGlyphs" >Python</text>
+<rect x="91.6" y="124" width="63.4" height="22" rx="6" fill="#2ff5d6" fill-opacity=".12" stroke="#2ff5d6" stroke-opacity=".5"/><text x="100.6" y="139" font-size="11" font-weight="800" letter-spacing="0.4" fill="#2ff5d6" text-anchor="start" textLength="45.4" lengthAdjust="spacingAndGlyphs" >Jupyter</text>
+</g></svg>
